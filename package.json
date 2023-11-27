@@ -1,7 +1,7 @@
 {
-  "name": "incognito",
+  "name": "Leonard Proxy",
   "version": "1.0.0",
-  "description": "Unofficial Incognito easy deployment version with TompHTTP bare server included.",
+  "description": "Leonard Allen Proxy easy deployment version with TompHTTP bare server included.",
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
@@ -12,7 +12,7 @@
   "files": ["static", "src", "ssl", ".gitignore", "app.json"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amethystnetwork-dev/Incognito"
+    "url": "git+https://github.com/Imperialfr/Incognito"
   },
   "keywords": ["unoffical", "ultraviolet", "unblock", "titaniumnetwork", "bypass-filter", "amethystnetwork-dev"],
   "author": "",
